@@ -1,0 +1,35 @@
+# Core LangGraph / LangChain
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+# Environment variables
+python-dotenv
+
+# Galaxy API / workflow interaction
+bioblend
+requests
+
+# Data processing
+pandas
+numpy
+
+# RAG / vector database
+chromadb
+sentence-transformers
+
+# Notebook support
+jupyter
+ipykernel
+
+# Utilities
+pydantic
+tqdm
+networkx
+
+# Parsing WorkflowHub / web metadata
+beautifulsoup4
+lxml
+pyyaml
