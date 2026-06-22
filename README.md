@@ -35,3 +35,9 @@ Workflow Generation
 Workflow Validation
    ↓
 Galaxy Workflow Export
+
+
+### Session
+**tmux new -s training_model
+
+tmux attach -t training_model**
