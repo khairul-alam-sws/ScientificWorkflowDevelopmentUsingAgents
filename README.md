@@ -41,3 +41,6 @@ Galaxy Workflow Export
 **tmux new -s training_model
 
 tmux attach -t training_model**
+
+## Steps
+1. preprocess_dataset.ipynb
