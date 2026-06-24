@@ -43,4 +43,8 @@ Galaxy Workflow Export
 tmux attach -t training_model**
 
 ## Steps
-1. preprocess_dataset.ipynb
+1. preprocess_dataset.ipynb saved the data to ../data/processed/galaxy_workflows_processed.jsonl
+2. fine-tuning-preprocessing.ipynb
+
+## Data copying
+scp -r /student/kha060/ScientificWorkflowDevelopmentUsingAgents/notebooks kha060@soar-6:/home/kha060/PHD-Study/
