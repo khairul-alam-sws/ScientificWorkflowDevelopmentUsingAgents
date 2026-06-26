@@ -5,5 +5,7 @@ https://usegalaxy.eu/workflows/list_published?owner=iwc
 https://usegalaxy.org.au/workflows/list_published?owner=iwc
 https://training.galaxyproject.org/training-material/
 https://training.galaxyproject.org/training-material/workflows/list.html
+https://workflowhub.eu/workflows?filter%5Bworkflow_type%5D=galaxy
+https://dockstore.org/organizations/iwc
 
 
