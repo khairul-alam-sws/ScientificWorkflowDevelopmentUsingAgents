@@ -3,4 +3,7 @@ https://iwc.galaxyproject.org/ 121 Galaxy workflows  https://github.com/galaxypr
 https://usegalaxy.org/workflows/list_published?owner=iwc
 https://usegalaxy.eu/workflows/list_published?owner=iwc
 https://usegalaxy.org.au/workflows/list_published?owner=iwc
+https://training.galaxyproject.org/training-material/
+https://training.galaxyproject.org/training-material/workflows/list.html
+
 
